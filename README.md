@@ -4,7 +4,7 @@
 
 ### Мои навыки:
 - автоматизация тестирования мобильных приложений на базе Android [Репозиторий с дипломной работой](github.com/QA-USV/My_Final_Project);
-- ручное тестирование веб-инртерфейсов [Курсовой проект](https://docs.google.com/spreadsheets/d/1JvUtguptEz2accU-ZcRIsfWwSgjiXgVE2L-YSxzRQ8E/edit?usp=sharing)
+- ручное тестирование веб-инртерфейсов [Курсовой проект](https://github.com/QA-USV/IQA-Diploma)
 - Java. [Примеры домашних работ по программе Java для тестировщиков](); 
 - JavaScript. [Примеры домашних работ по программе JavaScript для тестировщиков](); 
 - Appium. [Примеры домашних работ]();
