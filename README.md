@@ -16,17 +16,17 @@
 
 ### Сертификаты Нетологии:
 
-- [Ручное тестирование веб-приложений](Certificate_Manual_Testing.jpg);
-- [Git - система контроля версий](Certificate_Git.jpg);
-- [Java для тестировщиков](Certificate_Java_for_QA.jpg);
+- [Ручное тестирование веб-приложений](Diploma_and_Certificates/Certificate_Manual_Testing.jpg);
+- [Git - система контроля версий](Diploma_and_Certificates/Certificate_Git.jpg);
+- [Java для тестировщиков](Diploma_and_Certificates/Certificate_Java_for_QA.jpg);
 - [Автоматизированное тестирование веб-интерфейсов на Java]();
-- [JavaScript для тестировщиков](Certificate_JavaScript_for_QA.jpg);
-- [Автоматизация тестирования веб-интерфейсов](Certificate_WebInterface_AutoTesting.jpg);
-- [Тестирование мобильных приложений](Certificate_MobApp_Testing.jpg);
-- [Тестирование производительности](Certificate_Performance_Testing.jpg);
-- [Тестирование безопасности](Certificate_Security_Testing.jpg);
-- [Английский для программистов](Certificate_English_for_Developers.jpg);
+- [JavaScript для тестировщиков](Diploma_and_Certificates/Certificate_JavaScript_for_QA.jpg);
+- [Автоматизация тестирования веб-интерфейсов](Diploma_and_Certificates/Certificate_WebInterface_AutoTesting.jpg);
+- [Тестирование мобильных приложений](Diploma_and_Certificates/Certificate_MobApp_Testing.jpg);
+- [Тестирование производительности](Diploma_and_Certificates/Certificate_Performance_Testing.jpg);
+- [Тестирование безопасности](Diploma_and_Certificates/Certificate_Security_Testing.jpg);
+- [Английский для программистов](Diploma_and_Certificates/Certificate_English_for_Developers.jpg);
 
 ### Диплом о профессиональной переподготовке: 
-- [Диплом](Professional_Retraining_Diploma.jpg);
-- [Приложение к Диплому](Professional_Retraining_Diploma_Supplement.jpg);
+- [Диплом](Diploma_and_Certificates/Professional_Retraining_Diploma.jpg);
+- [Приложение к Диплому](Diploma_and_Certificates/Professional_Retraining_Diploma_Supplement.jpg);
