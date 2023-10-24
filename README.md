@@ -16,5 +16,5 @@
 
 ### Сертификаты Нетологии:
 
-- - [Ручное тестирование веб-приложений](https://github.com/QA-USV/my_portfolio/blob/main/Certificate_Performance_Testing.pdf);
+- [Ручное тестирование веб-приложений](https://github.com/QA-USV/my_portfolio/blob/main/Certificate_Performance_Testing.pdf);
 
