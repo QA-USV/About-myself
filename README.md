@@ -17,6 +17,7 @@
 ### Сертификаты Нетологии:
 
 - [Ручное тестирование веб-приложений](Diploma_and_Certificates/Certificate_Manual_Testing.jpg);
+- <a href="Diploma_and_Certificates/Certificate_Manual_Testing.jpg" target="_blank">Ручное тестирование веб-приложений</a>
 - [Git - система контроля версий](Diploma_and_Certificates/Certificate_Git.jpg);
 - [Java для тестировщиков](Diploma_and_Certificates/Certificate_Java_for_QA.jpg);
 - [Автоматизированное тестирование веб-интерфейсов на Java](Diploma_and_Certificates/Certificate_WebApp_AutoTesting_on_Java.jpg);
