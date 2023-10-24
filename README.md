@@ -19,7 +19,7 @@
 - [Ручное тестирование веб-приложений](Diploma_and_Certificates/Certificate_Manual_Testing.jpg);
 - [Git - система контроля версий](Diploma_and_Certificates/Certificate_Git.jpg);
 - [Java для тестировщиков](Diploma_and_Certificates/Certificate_Java_for_QA.jpg);
-- [Автоматизированное тестирование веб-интерфейсов на Java](Diploma_and_Certificates/Certificate_WebApp_AutoTesting_on_Java.jpg);
+- [Автоматизированное тестирование веб-приложений на Java](Diploma_and_Certificates/Certificate_WebApp_AutoTesting_on_Java.jpg);
 - [JavaScript для тестировщиков](Diploma_and_Certificates/Certificate_JavaScript_for_QA.jpg);
 - [Автоматизация тестирования веб-интерфейсов](Diploma_and_Certificates/Certificate_WebInterface_AutoTesting.jpg);
 - [Тестирование мобильных приложений](Diploma_and_Certificates/Certificate_MobApp_Testing.jpg);
