@@ -6,7 +6,6 @@
 
 [Домашнее задание к занятию «Collections Framework. CRUD и тестирование систем, управляющих набором объектов»](https://github.com/QA-USV/MyJavaLessonTournament)
 
-
 ## Курс "Автоматизация тестирования веб-интерфейсов":
 
 [Домашнее задание к занятию «7.6. Cypress 1»](https://github.com/QA-USV/Cypress_Task1)
