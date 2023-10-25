@@ -8,14 +8,14 @@
 
 ## Курс "Автоматизированное тестирование веб-приложений на Java":
 
-[Решение к занятию «1.2. Тестирование API, CI»](https://github.com/QA-USV/MyAutomationLesson2)
+[Решение к занятию «Тестирование API, CI»](https://github.com/QA-USV/MyAutomationLesson2)
 
-[Решение к занятию «1.2. Тестирование API, CI». Postman Echo](https://github.com/QA-USV/MyAutomationLesson2Task3)
+[Решение к занятию «Тестирование API, CI». Postman Echo](https://github.com/QA-USV/MyAutomationLesson2Task3)
 
 ## Курс "Автоматизация тестирования веб-интерфейсов":
 
 ### Cypress
 
-[Решение к занятию «7.6. Cypress 1»](https://github.com/QA-USV/Cypress_Task1)
+[Решение к занятию «Cypress 1»](https://github.com/QA-USV/Cypress_Task1)
 
-[Решение к занятию «7.7. Cypress 2»](https://github.com/QA-USV/Cypress_Task2)
+[Решение к занятию «Cypress 2»](https://github.com/QA-USV/Cypress_Task2)
