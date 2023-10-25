@@ -9,6 +9,7 @@
 ## Курс "Автоматизированное тестирование веб-приложений на Java":
 
 [Решение к занятию «1.2. Тестирование API, CI»](https://github.com/QA-USV/MyAutomationLesson2)
+
 [Решение к занятию «1.2. Тестирование API, CI». Postman Echo](https://github.com/QA-USV/MyAutomationLesson2Task3)
 
 ## Курс "Автоматизация тестирования веб-интерфейсов":
