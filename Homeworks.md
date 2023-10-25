@@ -8,6 +8,8 @@
 
 ## Курс "Автоматизация тестирования веб-интерфейсов":
 
+### Cypress
+
 [Домашнее задание к занятию «7.6. Cypress 1»](https://github.com/QA-USV/Cypress_Task1)
 
 [Домашнее задание к занятию «7.7. Cypress 2»](https://github.com/QA-USV/Cypress_Task2)
