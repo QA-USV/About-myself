@@ -12,7 +12,7 @@
 
 [Решение к занятию «Тестирование API, CI». Postman Echo](https://github.com/QA-USV/MyAutomationLesson2Task3)
 
-[Решение к занятию «2.1. Тестирование веб-интерфейсов»](https://github.com/QA-USV/MyAutomationLesson3)
+[Решение к занятию «Тестирование веб-интерфейсов, Selenium и Selenide»](https://github.com/QA-USV/MyAutomationLesson3)
 
 [Решение к занятию «Selenide»](https://github.com/QA-USV/MyAutomationSelenide)
 
