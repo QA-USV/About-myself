@@ -12,6 +12,8 @@
 
 [Решение к занятию «Тестирование API, CI». Postman Echo](https://github.com/QA-USV/MyAutomationLesson2Task3)
 
+[Решение к занятию «Selenide»](https://github.com/QA-USV/MyAutomationSelenide)
+
 ## Курс "Автоматизация тестирования веб-интерфейсов":
 
 ### Cypress
