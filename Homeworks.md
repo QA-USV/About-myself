@@ -16,6 +16,8 @@
 
 [Решение к занятию «Selenide»](https://github.com/QA-USV/MyAutomationSelenide)
 
+[Решение к занятию «Docker»](https://github.com/QA-USV/MyAutomationDockerTask1)
+
 ## Курс "Автоматизация тестирования веб-интерфейсов":
 
 ### Cypress
