@@ -22,6 +22,8 @@
 
 ## Курс "Автоматизация тестирования веб-интерфейсов":
 
+
+
 ### Cypress
 
 [Решение к занятию «Cypress 1»](https://github.com/QA-USV/Cypress_Task1)
