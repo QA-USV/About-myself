@@ -6,7 +6,7 @@
 - автоматизация тестирования мобильных приложений на базе Android. [Репозиторий с дипломной работой](https://github.com/QA-USV/My_Final_Project)
 - ручное тестирование веб-интерфейсов. [Курсовой проект](https://github.com/QA-USV/IQA-Diploma)
 - Java. [Примеры домашних работ](https://github.com/QA-USV/qa-usv/blob/main/Homeworks.md)
-- JavaScript. [Примеры домашних работ]()
+- JavaScript. [Примеры домашних работ](https://github.com/QA-USV/MyJavaScriptHomeworks)
 - Appium. [Примеры домашних работ]()
 - JUnit. [Примеры домашних работ]()
 - Cypress. [Примеры домашних работ](https://github.com/QA-USV/qa-usv/blob/main/Homeworks.md#cypress)
