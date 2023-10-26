@@ -18,6 +18,8 @@
 
 [Решение к занятию «Docker»](https://github.com/QA-USV/MyAutomationDockerTask1)
 
+[РЕшение к занятию «Репортинг, Allure»](https://github.com/QA-USV/MyAutomationPatternTask1)
+
 ## Курс "Автоматизация тестирования веб-интерфейсов":
 
 ### Cypress
