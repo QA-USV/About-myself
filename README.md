@@ -3,7 +3,7 @@
 Я, Сергей Устименко, специалист по тестированию.
 
 ### Мои навыки:
-- автоматизация тестирования мобильных приложений на базе Android. [Репозиторий с дипломной работой](https://github.com/QA-USV/My_Final_Project)
+- автоматизация тестирования мобильных приложений на базе Android. [Дипломная работа](https://github.com/QA-USV/My_Final_Project)
 - ручное тестирование веб-интерфейсов. [Курсовой проект](https://github.com/QA-USV/IQA-Diploma)
 - Java. [Примеры домашних работ](https://github.com/QA-USV/qa-usv/blob/main/Homeworks.md)
 - JavaScript. [Примеры домашних работ](https://github.com/QA-USV/MyJavaScriptHomeworks)
