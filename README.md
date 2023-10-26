@@ -8,7 +8,6 @@
 - Java. [Примеры домашних работ](https://github.com/QA-USV/qa-usv/blob/main/Homeworks.md)
 - JavaScript. [Примеры домашних работ](https://github.com/QA-USV/MyJavaScriptHomeworks)
 - Appium. [Примеры домашних работ]()
-- JUnit. [Примеры домашних работ]()
 - Cypress. [Примеры домашних работ](https://github.com/QA-USV/qa-usv/blob/main/Homeworks.md#cypress)
 - Selenium. [Примеры домашних работ](https://github.com/QA-USV/MyAutomationLesson3)
 - Selenide. [Примеры домашних работ](https://github.com/QA-USV/MyAutomationSelenide)
