@@ -26,6 +26,12 @@
 
 [Решение к занятию «Jest и Playwright»](https://github.com/QA-USV/MyHW_7.3)
 
+### Puppeeter
+
+[Решение к занятию «Puppeeter 1](https://github.com/QA-USV/MyHW_Puppeeter_1)
+
+[Решение к занятию «Puppeeter 2](https://github.com/QA-USV/MyHW_Puppeeter_2)
+
 ### Cypress
 
 [Решение к занятию «Cypress 1»](https://github.com/QA-USV/Cypress_Task1)
