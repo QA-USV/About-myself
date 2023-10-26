@@ -52,7 +52,7 @@
 
 [Решение к занятию «UI Automator. Автоматизация тестирования Android»](https://github.com/QA-USV/MobileTestAutomation_2.2)
 
-[Решение к занятию «Espresso. Продвинутая автоматизация тестирования](https://github.com/QA-USV/MobileTestAutomation_2.6)
+[Решение к занятию «Espresso. Продвинутая автоматизация тестирования"](https://github.com/QA-USV/MobileTestAutomation_2.6)
 
 
 
