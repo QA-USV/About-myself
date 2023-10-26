@@ -10,10 +10,10 @@
 - Appium. [Примеры домашних работ]()
 - JUnit. [Примеры домашних работ]()
 - Cypress. [Примеры домашних работ](https://github.com/QA-USV/qa-usv/blob/main/Homeworks.md#cypress)
-- Selenium. [Примеры домашних работ]()
-- Selenide. [Примеры домашних работ]()
+- Selenium. [Примеры домашних работ](https://github.com/QA-USV/MyAutomationLesson3)
+- Selenide. [Примеры домашних работ](https://github.com/QA-USV/MyAutomationLesson3)
 - JMeter. [Примеры домашних работ]()
-- Docker. [Примеры домашних работ]()
+- Docker. [Примеры домашних работ](https://github.com/QA-USV/MyAutomationDockerTask1)
 
 ### Сертификаты Нетологии:
 
