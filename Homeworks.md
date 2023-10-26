@@ -22,7 +22,9 @@
 
 ## Курс "Автоматизация тестирования веб-интерфейсов":
 
+### Jest и Playwright0
 
+[Решение к занятию «Jest и Playwright»](https://github.com/QA-USV/MyHW_7.3)
 
 ### Cypress
 
