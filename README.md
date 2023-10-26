@@ -11,7 +11,7 @@
 - Selenium. [Примеры домашних работ](https://github.com/QA-USV/MyAutomationLesson3)
 - Selenide. [Примеры домашних работ](https://github.com/QA-USV/MyAutomationSelenide)
 - Docker. [Примеры домашних работ](https://github.com/QA-USV/MyAutomationDockerTask1)
-
+- [Примеры других домашних работ](https://github.com/QA-USV/qa-usv/blob/main/Homeworks.md)
 ### Сертификаты Нетологии:
 
 - [Ручное тестирование веб-приложений](Diploma_and_Certificates/Certificate_Manual_Testing.jpg)
