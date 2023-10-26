@@ -37,3 +37,8 @@
 [Решение к занятию «Cypress 1»](https://github.com/QA-USV/Cypress_Task1)
 
 [Решение к занятию «Cypress 2»](https://github.com/QA-USV/Cypress_Task2)
+
+### CI/CD Jenkins
+
+[Решение к занятию «CI/CD Jenkins»](https://github.com/QA-USV/CI_CD_Jenkins)
+
