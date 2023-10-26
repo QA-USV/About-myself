@@ -45,3 +45,7 @@
 [Решение к занятию "UI Automator. Автоматизация тестирования Android"](https://github.com/QA-USV/MobileTestAutomation_2.2)
 
 [Решение к занятию "Espresso. Продвинутая автоматизация тестирования Android"](https://github.com/QA-USV/MobileTestAutomation_2.6)
+
+## Курс "Тестирование производительности":
+
+[Решения к занятиям курса "Тестирование производительности"](https://github.com/QA-USV/PerfomanceTesting)
